@@ -8,7 +8,7 @@
     ·
     <a href="#-changelog">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/sexfrance/cybertemp/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/sexfrance/cybertemp-wrapper/issues">⚠️ Report Bug</a>
   </p>
 </div>
 

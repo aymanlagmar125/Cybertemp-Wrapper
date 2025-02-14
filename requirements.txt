@@ -1,0 +1,2 @@
+logmagix==2.1.0.2
+Requests==2.32.3

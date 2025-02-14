@@ -114,6 +114,6 @@ v1.0.0 ⋮ 202-02-14
   <img src="https://img.shields.io/github/license/sexfrance/Cybertemp-Wrapper.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
   <img src="https://img.shields.io/github/stars/sexfrance/Cybertemp-Wrapper.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
   <img src="https://img.shields.io/github/languages/top/sexfrance/Cybertemp-Wrapper.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
-  <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/Cybertemp-Wrapper.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA">
+  <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/Cybertemp.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA">
 </p>
 

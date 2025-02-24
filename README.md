@@ -23,7 +23,7 @@ pip install cybertemp
 ### 🚀 Quick Start
 
 ```python
-from cybertemp.cybertemp import CyberTemp
+from cybertemp import CyberTemp
 
 # Initialize (free tier)
 client = CyberTemp()

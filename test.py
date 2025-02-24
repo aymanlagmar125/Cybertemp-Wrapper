@@ -1,4 +1,4 @@
-from cybertemp.cybertemp import CyberTemp
+from cybertemp import CyberTemp
 
 def main():
     # Initialize client (with or without API key)
